@@ -1,4 +1,4 @@
-import {catsData} from '/js/data.js'
+import {catsData} from 'data.js'
 
 const emotionRadios = document.querySelector('#emotion-radios')
 const getImageBtn = document.querySelector('#get-image-btn')
